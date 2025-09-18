@@ -9,6 +9,6 @@ change All interactions using
 3. __eyetracking__ based on AI with hard algorithms
 
 # _reference_
-![Nintendo-Touch Wario!](figure\Wario.JPG)
+![Nintendo-Touch Wario!](figure/Wario.JPG)
 
-![Nintendo-Touch Wario!-ingame](figure\Wario_ingame.JPG)
+![Nintendo-Touch Wario!-ingame](figure/Wario_ingame.JPG)
