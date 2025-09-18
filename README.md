@@ -10,5 +10,9 @@ change All interactions using
 
 # _reference_
 ![Nintendo-Touch Wario!](figure\Wario.JPG)
+I got some idea from this game.
 
 ![Nintendo-Touch Wario!-ingame](figure\Wario_ingame.JPG)
+The contents of this game.
+It gives __around 10 seconds__ which will be faster.
+It gives __a mission__ per round. If player cannot clear the mission in time then the life will decrease.
